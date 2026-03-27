@@ -1,30 +1,30 @@
-# ⚖️ Dr. Itamir Mamede — Advogado Trabalhista
+# Dr. Itamir Mamede — Advogado Trabalhista
 
 Site institucional do **Dr. Itamir Mamede**, advogado especialista em Direito do Trabalho, desenvolvido com HTML, CSS e JavaScript.
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
-- **HTML5** — estrutura semântica
-- **CSS3** — estilização e responsividade
+- **HTML5** — estrutura semantica
+- **CSS3** — estilizacao e responsividade
 - **JavaScript** — interatividade
 - **Google Fonts** — tipografia com Playfair Display
 
-## 📂 Estrutura de Arquivos
+## Estrutura de Arquivos
 
 ```
 Dr.-Itamair-Mamede/
-├── index.html    # Página principal
+├── index.html    # Pagina principal
 ├── style.css     # Estilos do site
 └── script.js     # Scripts de interatividade
 ```
 
-## ✨ Funcionalidades
+## Funcionalidades
 
-- Apresentação profissional do advogado
-- Áreas de atuação em Direito do Trabalho
+- Apresentacao profissional do advogado
+- Areas de atuacao em Direito do Trabalho
 - Layout responsivo para mobile e desktop
-- Seção de contato
+- Secao de contato
 
-## 👨‍💻 Desenvolvedor
+## Desenvolvedor
 
 Feito por [Rodrigo Mamede](https://github.com/Diggo1926)
